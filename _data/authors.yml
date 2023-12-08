@@ -1,0 +1,13 @@
+# Add Authors here
+ferenckv:
+   name: Ferenck Vargas
+   username: ferenckv
+   site: http://ferenckv.github.io
+   avatar: ferenckv.jpg
+   bio: "Hi I am Ferenck, a Web Developer."
+   email: ferenckv@gmail.com
+   social:
+      - title: "github"
+        url: "https://github.com/ferenckv"
+      - title: "linkedin"
+        url: "https://www.linkedin.com/in/ferenckv"

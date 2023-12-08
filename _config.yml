@@ -1,0 +1,327 @@
+title: Ferenck Vargas
+subtitle: Senior Software Engineer and Tech Lead
+description: >- # this means to ignore newlines until "baseurl:"
+  Experienced Backend Developer | Tech Lead | Project Management Graduate | Mentor and Lifelong Learner.
+
+url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Navigation
+urls:
+    - text: Home
+      url: /
+    - text: About me
+      url: /about
+    - text: Blog
+      url: /blog
+
+# Edit Author details (For multi authors check _data/authors.yml)
+
+author_logo: profile.jpg
+author: Ferenck Vargas
+author_bio: Experienced Backend Developer | Tech Lead | Project Management Graduate | Mentor and Lifelong Learner
+author_email: "ferenckv@gmail.com"
+author_location: San Pedro Sula, Honduras
+author_website_url: "https://ferenckv.github.io"
+author_cv_url: "https://app.enhancv.com/share/20a7cafb/"
+typewrite-text: Experienced Backend Developer | Tech Lead | Project Management Graduate | Mentor and Lifelong Learner
+hero_cover_img: cover.jpg
+
+# Experiences
+author_work_experiences:
+            - company_name: Practice
+              company_logo: practice.png
+              company_url: https://practice.do
+              designation: Senior Full Stack Engineer
+              description: Worked on various Products
+              ternure: Oct 2021 - Sept 2023
+              visibility: true
+            - company_name: Clipboard Health
+              company_logo: clipboard.png
+              company_url: https://www.clipboardhealth.com/
+              designation: Software Engineering Lead
+              description: Worked on various Azure Cloud Products
+              ternure: Oct 2020 - Aug 2021
+              visibility: true
+            - company_name: CompSci
+              company_logo: compsci.png
+              company_url: https://www.compscillc.com/
+              designation: Software Consultant
+              description: Worked on various Azure Cloud Products
+              ternure: Dec 2019 - Oct 2020
+              visibility: true
+            - company_name: Acklen Avenue
+              company_logo: acklen.png
+              company_url: https://acklenavenue.com/
+              designation: Tech Lead
+              description: Worked on various Azure Cloud Products
+              ternure: Apr 2019 - Dec 2019
+              visibility: true
+            - company_name: Acklen Avenue
+              company_logo: acklen.png
+              company_url: https://acklenavenue.com/
+              designation: Senior Software Developer
+              description: Worked on various Azure Cloud Products
+              ternure: May 2015 - Mar 2019
+              visibility: true
+            - company_name: Centro Universitario Tecnológico
+              company_logo: ceutec.png
+              company_url: https://ceutec.hn/
+              designation: Lecturer
+              description: Worked on various Azure Cloud Products
+              ternure: Jul 2012 - Dec 2018
+              visibility: true
+            - company_name: Universidad Tecnológica Centroamericana
+              company_logo: unitec.png
+              company_url: https://unitec.edu/
+              designation: Lecturer
+              description: Worked on various Azure Cloud Products
+              ternure: Apr 2015 - Apr 2017
+              visibility: true
+            - company_name: Chiquita
+              company_logo: chiquita.png
+              company_url: https://www.chiquita.com/
+              designation: IT Application Analyst
+              description: Worked on various Azure Cloud Products
+              ternure: Jul 2011 - Mar 2015
+              visibility: true
+            - company_name: Grupo Leitz
+              company_logo: leitz.png
+              company_url: http://leitzgroup.com/
+              designation: Senior Programmer
+              description: Worked on various Azure Cloud Products
+              ternure: Jun 2006 - Jun 2011
+              visibility: true
+
+# Education
+author_education_details:
+              - college_logo: unitec.png
+                college_name: Universidad Tecnológica Centroamericana
+                college_url: https://unitec.edu/
+                college_degree: Project Management
+                description: Master
+                visibility: true
+              - college_logo: unitec.png
+                college_name: Universidad Tecnológica Centroamericana
+                college_url: https://unitec.edu/
+                college_degree: CS Engineer
+                description: Bachelor of Technology
+                visibility: true
+
+# Projects
+author_project_details:
+              - project_title: New Api for a early stage startup
+                project_description: Define and implement a bootstrap api project using OpenApi schemas and OpenApi client generator.
+                tech_stack:
+                  - Typescript
+                  - NodeJS
+                  - Fastify
+                  - ReactJS
+                  - NextJs
+                  - Firebase
+                  - OpenApi-Generator
+                visibility: true
+              - project_title: Stripe Implementation
+                project_description: Implement Stripe as payment provider for a Marketplace Statup.
+                tech_stack:
+                  - Typescript
+                  - NodeJS
+                  - NestJs
+                  - ReactJS
+                  - MongoDB
+                  - Stripe
+                visibility: true
+              - project_title: Test Automation for a Web App
+                project_description: A suit of automated tests for a web app, using LeanFT.
+                tech_stack:
+                  - C#
+                  - Asp.net Core
+                  - LeanFT
+                visibility: true
+              - project_title: Project Budget Execution Dashboard
+                project_description: A Web Dashboard build for a multinational company where project managers can track their project budget execution using dynamic widgets.
+                tech_stack:
+                  - Typescript
+                  - C#
+                  - Asp.net Core
+                  - Fastify
+                  - ReactJS
+                  - MySQL
+                visibility: true
+              - project_title: Property Management Sofware
+                project_description: A Platform built for a property management company, to manage their properties, tenants, payments, etc., from prospect to post-tenancy.
+                tech_stack:
+                  - Typescript
+                  - NodeJS
+                  - ReactJS
+                  - NextJs
+                  - MongoDB
+                visibility: true
+              - project_title: Book Recommendation Website
+                project_description: A Social Platform built for readers, to share their favorite books, and get recommendations from other readers based on an assigned reader profile.
+                tech_stack:
+                  - Typescript
+                  - NodeJS
+                  - ReactJS
+                  - NextJs
+                  - MongoDB
+                visibility: true
+              - project_title: Inmate Healthcare Management System
+                project_description: A system built for a prison management company, to manage their inmates, healthcare, etc., from intake to release.
+                tech_stack:
+                  - Typescript
+                  - C#
+                  - Asp.net Core
+                  - ReactJS
+                  - NextJs
+                  - MongoDB
+                visibility: true
+
+# social links
+github_username:  ferenckv
+linkedin_username: ferenckv
+
+#for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
+
+# disqus_shortname: 
+# hyvor_talk_website_id: 
+
+# wakatime username (coding activity)
+# wakatime_username: 
+
+# mailchimp embedded form url (newsletter):
+# mailchimp_form_url: 
+
+# contact form - (choose formspress or getform)
+# getform_endpoint: 
+# formspree_email: 
+
+# releases - widget can be (sidebar, modal or embed)
+# olvy_organization: devlopr
+# olvy_widget_type: sidebar
+
+# syntax highlighter
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Choose what to show ( can be true or false)
+show_author_work_experiences: true
+show_author_education_details: true
+show_author_project_details: true
+
+# pagination of posts
+paginate: 4
+per_page: 4
+paginate_path: "/blog/page/:num/"
+
+# minify
+# compress_html:
+#   clippings: all
+#   comments: ["<!-- ", " -->"]
+#   endings: all
+#   ignore:
+#     envs: ['development']
+
+# Archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#   layout: archive
+#   permalinks:
+#     category: '/category/:name/'
+
+collections:
+  products:
+    output: true
+  authors:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "gallery"
+    values:
+      permalink: /:path/:basename:output_ext
+  -
+    scope:
+      path: ""
+      type: authors
+    values:
+      layout: author
+      permalink: /blog/authors/:slug
+  -
+    scope:
+      path: 'assets/**'
+    values:
+      sitemap: false
+
+# Build settings
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-admin
+
+# Jekyll Admin Config
+jekyll_admin:
+  # hidden_links:
+  #   - posts
+  #   - pages
+  #   - staticfiles
+  #   - datafiles
+  #   - configuration
+  homepage: "posts"
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+
+### Switching Deployment Strategy (in DEPLOY_STRATEGY) file change the key accordingly:
+# gh-pages - For Github Pages
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - assets/bower_components/isotope-layout/README.md
+  - assets/bower_components/icono/README.md
+  - assets/bower_components/font-awesome/advanced-options/use-with-node-js/fontawesome-svg-core/README.md
+  - assets/bower_components/ghosthunter/README.md
+  - assets/bower_components/nanobar/README.md
+  - assets/bower_components/lightgallery/demo/README.md
+  - assets/bower_components/font-awesome/advanced-options/use-with-node-js/free-brands-svg-icons/README.md
+  - assets/bower_components/font-awesome/advanced-options/use-with-node-js/free-solid-svg-icons/README.md
+  - assets/bower_components/jquery-mousewheel/README.md
+  - assets/bower_components/get-size/README.md
+  - assets/bower_components/font-awesome/advanced-options/use-with-node-js/fontawesome/README.md
+  - assets/bower_components/jquery-mousewheel/ChangeLog/README.md
+  - assets/bower_components/font-awesome/advanced-options/use-with-node-js/fontawesome-free-regular/README.md
+  - assets/bower_components/desandro-matches-selector/README.md
+  - assets/bower_components/ev-emitter/README.md
+  - assets/bower_components/font-awesome/README.md
+  - assets/bower_components/font-awesome/advanced-options/use-with-node-js/fontawesome-free-solid/README.md
+  - assets/bower_components/font-awesome/advanced-options/use-with-node-js/fontawesome-free/README.md
+  - assets/bower_components/font-awesome/advanced-options/use-with-node-js/fontawesome-free-webfonts/README.md
+  - assets/bower_components/font-awesome/advanced-options/use-with-node-js/fontawesome-free-brands/README.md
+  - assets/bower_components/font-awesome/advanced-options/use-with-node-js/fontawesome-common-types/README.md
+  - assets/bower_components/ghosthunter/example/Index.html
+  - assets/bower_components/lightgallery/test/lightgallery.html
+  - assets/bower_components/masonry-layout/README.md
+  - assets/bower_components/imagesloaded/README.md
+
+
+destination: ./build
