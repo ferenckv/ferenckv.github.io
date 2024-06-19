@@ -29,67 +29,74 @@ hero_cover_img: cover.jpg
 
 # Experiences
 author_work_experiences:
+            - company_name: Kissmetrics
+              company_logo: kissmetrics.png
+              company_url: https://kissmetrics.io
+              designation: Head of Engineering
+              description: Led a team of 3 Software/DevOps engineers
+              ternure: Jan 2024 - To the date
+              visibility: true
             - company_name: Practice
               company_logo: practice.png
               company_url: https://practice.do
               designation: Senior Full Stack Engineer
-              description: Worked on various Products
+              description: Worked on various projects
               ternure: Oct 2021 - Sept 2023
               visibility: true
             - company_name: Clipboard Health
               company_logo: clipboard.png
               company_url: https://www.clipboardhealth.com/
               designation: Software Engineering Lead
-              description: Worked on various Azure Cloud Products
+              description: Lead a team of 4 Software Engineers
               ternure: Oct 2020 - Aug 2021
               visibility: true
             - company_name: CompSci
               company_logo: compsci.png
               company_url: https://www.compscillc.com/
               designation: Software Consultant
-              description: Worked on various Azure Cloud Products
+              description: Built an automated tests suite for a web app
               ternure: Dec 2019 - Oct 2020
               visibility: true
             - company_name: Acklen Avenue
               company_logo: acklen.png
               company_url: https://acklenavenue.com/
               designation: Tech Lead
-              description: Worked on various Azure Cloud Products
+              description: Worked on multiple projects for different clients
               ternure: Apr 2019 - Dec 2019
               visibility: true
             - company_name: Acklen Avenue
               company_logo: acklen.png
               company_url: https://acklenavenue.com/
               designation: Senior Software Developer
-              description: Worked on various Azure Cloud Products
+              description: Worked on multiple projects for different clients
               ternure: May 2015 - Mar 2019
               visibility: true
             - company_name: Centro Universitario Tecnológico
               company_logo: ceutec.png
               company_url: https://ceutec.hn/
               designation: Lecturer
-              description: Worked on various Azure Cloud Products
+              description: Tought various programming courses
               ternure: Jul 2012 - Dec 2018
               visibility: true
             - company_name: Universidad Tecnológica Centroamericana
               company_logo: unitec.png
               company_url: https://unitec.edu/
               designation: Lecturer
-              description: Worked on various Azure Cloud Products
+              description: Tought various project management courses
               ternure: Apr 2015 - Apr 2017
               visibility: true
             - company_name: Chiquita
               company_logo: chiquita.png
               company_url: https://www.chiquita.com/
               designation: IT Application Analyst
-              description: Worked on various Azure Cloud Products
+              description: Technical overseing of the company's applications
               ternure: Jul 2011 - Mar 2015
               visibility: true
             - company_name: Grupo Leitz
               company_logo: leitz.png
               company_url: http://leitzgroup.com/
               designation: Senior Programmer
-              description: Worked on various Azure Cloud Products
+              description: Worked on multiple projects for different clients
               ternure: Jun 2006 - Jun 2011
               visibility: true
 
