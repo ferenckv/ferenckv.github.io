@@ -29,12 +29,19 @@ hero_cover_img: cover.jpg
 
 # Experiences
 author_work_experiences:
+            - company_name: CompSci
+              company_logo: compsci.png
+              company_url: https://www.compscillc.com/
+              designation: Lead Software Engineer
+              description: Lead a team of 4 engineers as technical liaison on an enterprise client project; designed and shipped the product's first public API for external integrations
+              ternure: Feb 2025 - To the date
+              visibility: true
             - company_name: Kissmetrics
               company_logo: kissmetrics.png
               company_url: https://kissmetrics.io
               designation: Head of Engineering
               description: Led a team of 3 Software/DevOps engineers
-              ternure: Jan 2024 - To the date
+              ternure: Jan 2024 - Aug 2024
               visibility: true
             - company_name: Practice
               company_logo: practice.png
@@ -269,7 +276,6 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-admin
 
 # Jekyll Admin Config
 jekyll_admin:

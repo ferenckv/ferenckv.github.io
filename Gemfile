@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 
 gem 'jekyll', '~> 4.3.2'
-gem 'bundler', '~> 2.4.22'
+gem 'bundler', '~> 4.0'
+gem 'csv'
+gem 'base64'
 gem 'faraday-retry'
 gem 'backports', '~> 3.23'
 gem 'kramdown'
@@ -21,7 +23,10 @@ group :jekyll_plugins do
     gem 'jekyll-gist', '~> 1.5.0'
     gem 'jekyll-seo-tag', '~> 2.8.0'
     gem 'jekyll-sitemap', '~> 1.4.0'
-    gem 'jekyll-admin', '~> 0.11.1'
+end
+
+group :test, :development do
+  gem 'html-proofer'
 end
 
 
